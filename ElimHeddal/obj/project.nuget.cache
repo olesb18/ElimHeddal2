@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1qXYxJttxaNo3jbULxk1KY0bTN4KXtBZ4rW+wRdh1RFwCSFelckLojODvq9O6qtO17qbw60h/+dM6wyNHfM9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mini-\\ElimNettside\\ElimHeddal2\\ElimHeddal\\ElimHeddal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mini-\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.11\\microsoft.aspnetcore.spaproxy.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

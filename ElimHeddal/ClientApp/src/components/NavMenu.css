@@ -1,0 +1,40 @@
+﻿header {
+ background-color: #afb42b; /* The greenish-yellow background color */
+ padding: 10px;
+ border-bottom: none
+}
+
+.logo {
+ height: 50px; /* Adjust as necessary to fit your design */
+ margin-right: 10px;
+ position: fixed;
+}
+
+.navbar-brand {
+ display: flex;
+ align-items: center;
+ font-weight: bold;
+ color: black; /* The text color of the logo section */
+}
+
+.navbar {
+ background-color: #afb42b; /* Matches the header background */
+ color: black;
+ border: none;
+}
+
+.navbar-nav .nav-item .nav-link {
+ color: black;
+}
+
+.dropdown-menu {
+ background-color: white;
+ border: black solid 2px;
+ margin: 2%;
+}
+.dropdown-item {
+ color: black;
+ background-color: white;
+ font-size: x-large;
+ padding: 2%;
+}
